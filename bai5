@@ -1,0 +1,4 @@
+Cho hình chữ nhật có chiều dài và chiều rộng lần lượt là 7.8 và 6.4. Bạn hãy viết chương trình hiển thị ra màn hình thông tin sau:
+
+print("area=",7.8*6.4)
+print("perimeter=",(7.8+6.4)*2)
