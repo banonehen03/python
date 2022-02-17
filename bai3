@@ -1,0 +1,3 @@
+Bạn hãy viết chương trình Python hiển thị ra màn hình tổng của 3273 và 2282.
+
+print(3273+2282)
